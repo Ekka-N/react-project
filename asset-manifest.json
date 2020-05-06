@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4e3f89ad.chunk.css",
+    "main.js": "/static/js/main.2d8ebffa.chunk.js",
+    "main.js.map": "/static/js/main.2d8ebffa.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.75211130.js",
+    "runtime-main.js.map": "/static/js/runtime-main.75211130.js.map",
+    "static/js/2.6df1b115.chunk.js": "/static/js/2.6df1b115.chunk.js",
+    "static/js/2.6df1b115.chunk.js.map": "/static/js/2.6df1b115.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e647fcbaec097a20152f400fa7660aa3.js": "/precache-manifest.e647fcbaec097a20152f400fa7660aa3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.4e3f89ad.chunk.css.map": "/static/css/main.4e3f89ad.chunk.css.map",
+    "static/js/2.6df1b115.chunk.js.LICENSE.txt": "/static/js/2.6df1b115.chunk.js.LICENSE.txt",
+    "static/media/fonts.css": "/static/media/comfortaalight.b08d31c0.ttf",
+    "static/media/delete.svg": "/static/media/delete.45744eea.svg",
+    "static/media/Item.module.css": "/static/media/undone.a4407990.svg",
+    "static/media/fork.svg": "/static/media/fork.0a1558bf.svg",
+    "static/media/note.svg": "/static/media/note.a0b0c891.svg",
+    "static/media/preloader.svg": "/static/media/preloader.316c2ada.svg",
+    "static/media/star.svg": "/static/media/star.a3b344a2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75211130.js",
+    "static/js/2.6df1b115.chunk.js",
+    "static/css/main.4e3f89ad.chunk.css",
+    "static/js/main.2d8ebffa.chunk.js"
+  ]
+}
