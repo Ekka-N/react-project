@@ -1,6 +1,6 @@
 # My final react project
 
-Hi! This is my finar project in [WebHeroSchool](https://webheroschool.ru)
+Hi! This is my final project in [WebHeroSchool](https://webheroschool.ru)
 
 Here you can see it: [Application](https://ekka-n.github.io/react-project/#)
 
